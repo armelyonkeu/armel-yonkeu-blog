@@ -1,20 +1,19 @@
 [
   {
     "path": "posts/2019-09-18-article-1/",
-    "title": "Article 1 : Where’s My Elephant? High-Tech Collars Track Wildlife in Real Time",
+    "title": "Article 1 : How Océan water cause a glacial erosion?",
     "description": {},
     "author": [
       {
-        "name": "Nicolas Devilez",
+        "name": "Yonkeu Tchuidjang Armel",
         "url": {}
       }
     ],
-    "date": "2019-09-18",
+    "date": "2019-10-21",
     "categories": [
-      "elephant",
-      "track"
+      "-melty of the glaciers"
     ],
-    "preview": "posts/2019-09-18-article-1/image/where-s-my-elephant.jpg",
-    "last_modified": "2019-10-06T22:44:36+02:00"
+    "preview": {},
+    "last_modified": "2019-10-23T18:23:35+02:00"
   }
 ]

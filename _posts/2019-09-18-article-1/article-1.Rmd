@@ -39,5 +39,5 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <https://www.scientificamerican.com/article/wheres-my-elephant-https://www.scientificamerican.com/article/ice-sheets-are-eroded-by-upside-down-rivers/
 
-[pdf version](ressource/article-1.pdf)
+[pdf version](https://github.com/armelyonkeu/armel-yonkeu-blog/blob/master/_posts/2019-09-18-article-1/ressource/article-1.pdf)
 

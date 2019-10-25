@@ -1,17 +1,19 @@
 ---
+<<<<<<< HEAD
 output:
   html_document: default
   pdf_document: default
 ---
 ---
 title: "Article 1 : " How Océan water cause a glacial erosion?
+=======
+title: "Article 1 : How Océan water cause a glacial erosion?"
+>>>>>>> f43505164e32e9beaa78bde286b9dcf8330418ab
 author:
   - name: Yonkeu Tchuidjang Armel
-date:10-21-2019
+date: 10-21-2019
 categories:
   -melty of the glaciers
-  - 
-preview: 
 output:
   
 ![](/home/sv/Downloads/84681ED7-E5C7-4749-AA617380E499D663-790x445.jpg)
@@ -36,7 +38,12 @@ output:
 | Conclusion          | we must rapidly find any process which can remove a glacier                             |
 | Remaining questions | how much melty of the glaciers increase temperature and sea-level                       |
 
+<<<<<<< HEAD
 
 
+=======
+<https://www.scientificamerican.com/article/wheres-my-elephant-https://www.scientificamerican.com/article/ice-sheets-are-eroded-by-upside-down-rivers/
+>>>>>>> f43505164e32e9beaa78bde286b9dcf8330418ab
 
+[pdf version](https://github.com/armelyonkeu/armel-yonkeu-blog/blob/master/_posts/2019-09-18-article-1/ressource/article-1.pdf)
 

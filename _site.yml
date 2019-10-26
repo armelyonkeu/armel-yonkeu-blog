@@ -14,5 +14,6 @@ navbar:
 base_url: http://armelyonkeu.github.io/armel-yonkeu-blog-yonkeu/
 collections:
     posts:
+      disqus: armel-yonkeu-blog
       share: [twitter, linkedin, facebook]
 output: distill::distill_article

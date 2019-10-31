@@ -1,20 +1,18 @@
-
-output:
-  html_document: default
-  pdf_document: default
 ---
-
 title: "Article 1 : How Océan water cause a glacial erosion?"
-
 author:
   - name: Yonkeu Tchuidjang Armel
 date: 10-21-2019
 categories:
-  -melty of the glaciers
-- preview:
-  output:
-  
-![exploration glaciere](/home/sv/shared/projects/projet_test/armel-yonkeu-blog/_posts/2019-09-18-article-1/image/84681ED7-E5C7-4749-AA617380E499D663-790x445.jpg)
+  - "melty of the glaciers"
+preview: "image/84681ED7-E5C7-4749-AA617380E499D663-790x445.jpg"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+![exploration glaciere](image/84681ED7-E5C7-4749-AA617380E499D663-790x445.jpg)
 
 
 ###### article-link: [https://www.scientificamerican.com/article/ice-sheets-are-eroded-by-upside-down-rivers/#]()
@@ -39,6 +37,4 @@ categories:
 
 <https://www.scientificamerican.com/article/wheres-my-elephant-https://www.scientificamerican.com/article/ice-sheets-are-eroded-by-upside-down-rivers/
 
-
-[pdf version](https://github.com/armelyonkeu/armel-yonkeu-blog/blob/master/_posts/2019-09-18-article-1/ressource/article-1.pdf)
 

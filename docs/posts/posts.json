@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "path": "posts/2019-09-18-article-1/",
+    "title": "Article 1 : How Océan water cause a glacial erosion?",
+    "description": {},
+    "author": [
+      {
+        "name": "Yonkeu Tchuidjang Armel",
+        "url": {}
+      }
+    ],
+    "date": "2019-10-21",
+    "categories": [
+      "melty of the glaciers"
+    ],
+    "preview": "posts/2019-09-18-article-1/image/84681ED7-E5C7-4749-AA617380E499D663-790x445.jpg",
+    "last_modified": "2019-10-31T12:02:58+01:00"
+  }
+]

@@ -1,0 +1,36 @@
+---
+title: "Article 2 : Old US military satellites give more information about melty of the Himalaya’s glaciers"
+author:
+  - name: Yonkeu Tchuidjang Armel
+date: 11-02-2019
+preview: "images/picture of US_satellite.jpg"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+### name of magazine:  New Scientist
+[link of article](https://www.newscientist.com/article/2206940-spy-satellite-images-reveal-himalaya-glacier-ice-losses-have-doubled/)
+
+# Vocabulary
+
+| words from the text | synonym/explanation                                          |
+| ------------------- | ------------------------------------------------------------ |
+| to chart            | to give geographical position                                |
+| play havoc with     |  to disturb, to pertub                                       |
+| cartridges          | photographic film, the place in which picture stay in camera |
+| to vanish           | to disappear                                                 |
+
+# Analysis table
+
+| Researchers                     | Adam Vaughan, chief reporter at New Scientist                                                                                     |
+| ------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| Published in ?                  | 19, september 2019                                                                                                                |
+| General topic ?                 | Information which given by combination of two analysis (pictures of old and new satellites).                                      |
+| Procedure / what was examined ? | observation on Monsoon-driven climate.  Analysis on melty of the Everest’s glaciers and pictures of two satellites (old and new). |
+| Conclusion / discovery ?        | the quater of Himalaya ice mass have lost since 1975. It have correlation between rising temperatures and ice loss accelerating.  |
+| Remaining questions ?           | Why the Karakoram (north of Pakistan) and Kunlun (china) glaciers are stable or even growing up in places ?                       |
+
+
+

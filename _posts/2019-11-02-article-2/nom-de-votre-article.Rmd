@@ -9,8 +9,8 @@ output:
     self_contained: false
 ---
 
+### name of magazine: New Scientist
 
-### name of magazine:  New Scientist
 [link of article](https://www.newscientist.com/article/2206940-spy-satellite-images-reveal-himalaya-glacier-ice-losses-have-doubled/)
 
 # Vocabulary

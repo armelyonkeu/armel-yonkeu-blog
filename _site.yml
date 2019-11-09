@@ -1,10 +1,7 @@
-name: "environement impacts causes by melty of the glaciers"
+name:
 title: "Armel's Blog"
 output_dir: "docs"
 navbar:
-  logo:
-    image: images/download.jpeg
-     herf: https://www.google.com
   right:
     - text: "Home"
       href: index.html

@@ -2,6 +2,9 @@ name:
 title: "Armel's Blog"
 output_dir: "docs"
 navbar:
+  logo:
+    image: image/image_sdd.jpg
+    href: https://www.google.com
   right:
     - text: "Home"
       href: index.html

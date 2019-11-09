@@ -10,7 +10,7 @@ output:
   distill::distill_article:
     self_contained: false
 ---
-
+![](image/image_sdd.jpg)
 
 ![exploration glaciere](image/84681ED7-E5C7-4749-AA617380E499D663-790x445.jpg)
 

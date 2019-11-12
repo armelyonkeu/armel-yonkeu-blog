@@ -3,13 +3,11 @@ title: "Armel's Blog"
 output_dir: "docs"
 navbar:
   logo:
-    image: image/csm_20170324_journeeinformation_48f74d0305 (1).jpg
+    image: armel-yonkeu-blog/image_1.jpg
     href: https://www.google.com
   right:
     - text: "Home"
       href: index.html
-    - text: "Miscellaneous"
-      href: english-activity.html
     - text: "About"
       href: about.html
     - icon: fab fa-github

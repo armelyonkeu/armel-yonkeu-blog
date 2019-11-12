@@ -12,9 +12,8 @@ output:
     self_contained: false
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
+November the 9 2019: i installed BBC application in my phone. 
+The same day i was seeing an report which talking about an japanese woman who have been practised sumo like men. Hiyory kon is an amateur sumo wrestling in japan. She has 22 and give a voice to women in sumo.
 
 Distill is a publication format for scientific and technical writing, native to the web.
 

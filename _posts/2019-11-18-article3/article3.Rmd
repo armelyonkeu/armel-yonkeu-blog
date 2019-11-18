@@ -33,7 +33,7 @@ output:
 
 
 | Researchers                 | Chealsea Harvey, reporter at eenews                                                                          |
-|                             |                                             |
+| ------------------------- | ------------------------------------------ |
 | Published in ?              | August 5, 2019                                                                                               |
 | General topic               | This report talk about a high melting Switzerland's glaciers                                                                                      caused by a rough summer which occured at june to july |
 | Procedure/What was examined | Results of the reseach did by GlAMOS (Glacier Monitoring Network), The Tignes Ski ressort in the french Alps announced, observation of mountaineer Bryan Mestre and publication in the cryosphere. |

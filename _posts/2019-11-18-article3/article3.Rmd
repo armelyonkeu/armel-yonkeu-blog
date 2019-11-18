@@ -1,0 +1,44 @@
+---
+title: "Article 3: A rough summer"
+description:
+   melting of the switzerland's glaciers
+author:
+  - name: Yonkeu Tchuidjang Armel
+    url: {}
+date: 11-18-2019
+preview: "analysis/figures/2752687265_5aab7a0f39_o.jpg"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+![](analysis/figures/2752687265_5aab7a0f39_o.jpg)
+
+##### The Aletsch Glacier in Switzerland
+
+##### Magazine name: [Science mag](https://www.sciencemag.org/news/2019/08/europes-record-heat-melted-swiss-glaciers)
+
+## Vocabulary
+
+| words from the text       | synonym/explanation                        |
+| ------------------------- | ------------------------------------------ |
+| sweltering                | when something make respiration difficult  |
+| downward                  | rate decrease                              |
+| stunned to stumble across | to see something that was not planned      |
+| hike                      | a break                                    |
+
+
+## Analysis table
+
+
+| Researchers                 | Chealsea Harvey, reporter at eenews                                                                          |
+|                             |                                             |
+| Published in ?              | August 5, 2019                                                                                               |
+| General topic               | This report talk about a high melting Switzerland's glaciers                                                                                      caused by a rough summer which occured at june to july |
+| Procedure/What was examined | Results of the reseach did by GlAMOS (Glacier Monitoring Network), The Tignes Ski ressort in the french Alps announced, observation of mountaineer Bryan Mestre and publication in the cryosphere. |
+| Conclusions/discovery       | we are regulary seeing rough summer that we increase melty of the Europe'glaciers                             |
+
+
+
+

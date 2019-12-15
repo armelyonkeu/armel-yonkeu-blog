@@ -2,9 +2,6 @@ name:
 title: "Armel's Blog"
 output_dir: "docs"
 navbar:
-  logo:
-    image: armel-yonkeu-blog/image_1.jpg
-    href: https://www.google.com
   right:
     - text: "Home"
       href: index.html
@@ -17,4 +14,6 @@ collections:
     posts:
       disqus: armel-yonkeu-blog
       share: [twitter, linkedin, facebook]
-output: distill::distill_article
+output:
+  distill::distill_article
+

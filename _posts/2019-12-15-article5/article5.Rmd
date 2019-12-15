@@ -1,0 +1,40 @@
+---
+title: "Article_5: Alert about glacier melting in Asia"
+description: |
+  be carefull before too long, some rivers in Asia will be empty.
+author:
+  - name: Yonkeu Tchuidjang Armel
+    url: {}
+date: 12-15-2019
+preview: "image/Brahmaputra-River-Rafting-Expedition-04.jpg"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+name of magazine and url:
+
+[NewScientist](https://www.newscientist.com/letter/mg24432543-000-vanishing-glaciers-will-be-deadly-for-people-in-asia/)
+
+
+
+![Brahmaputra river, a river in Asia](image/Brahmaputra-River-Rafting-Expedition-04.jpg)
+
+### Vocabulary
+
+| Words from the text 	| Synonym/explanation in english 	|
+|---------------------	|--------------------------------	|
+| vanishing           	| disappearance                  	|
+| fed                 	| to fill in with                	|
+| flood               	| to be full                     	|
+| diminished          	| go down                        	|
+
+
+### Analysis table
+
+| Researcher?                  	| Alex Hromas                                                                                                                                                               	|
+|------------------------------	|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| published in?                	| 30 october 2019                                                                                                                                                           	|
+| General topic?               	| melting of the glaciers in Asia will cause some of its rivers to dry up                                                                                                   	|
+| procedure/what was examined? 	| they used information about former research [](https://www.newscientist.com/article/mg24332483-600-special-report-how-climate-change-is-melting-frances-largest-glacier/) 	|
+| conclusions/discovery        	| before too long, some rivers in Asia will be empty in the dry season                                                                                                      	|

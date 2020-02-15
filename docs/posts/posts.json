@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2020-02-15-article-6/",
+    "title": "article-6: impacts of high temperature on Alaskan ice",
+    "description": "Ice loss in Alaska have big consequences.",
+    "author": [
+      {
+        "name": "Yonkeu Tchuidjang Armel",
+        "url": {}
+      }
+    ],
+    "date": "2020-02-15",
+    "categories": [],
+    "preview": "posts/2020-02-15-article-6/image/Alaska_sea.jpg",
+    "last_modified": "2020-02-15T16:58:50+01:00"
+  },
+  {
     "path": "posts/2019-12-15-article5/",
     "title": "Article_5: Alert about glacier melting in Asia",
     "description": "be carefull before too long, some rivers in Asia will be empty.",

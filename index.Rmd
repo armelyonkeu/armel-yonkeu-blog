@@ -1,5 +1,5 @@
 ---
-title: "The impacts of melting glaciers on the environement"
+title: "The impacts of melting glaciers on the environment"
 site: distill::distill_website
 listing: posts
 ---

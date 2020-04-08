@@ -1,5 +1,5 @@
 ---
-title: "Article 3: A rough summer"
+title: "Article 3: Europe’s record heat melted Swiss glaciers"
 description:
    melting of the switzerland's glaciers
 author:

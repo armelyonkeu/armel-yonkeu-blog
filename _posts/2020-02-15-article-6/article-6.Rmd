@@ -1,5 +1,5 @@
 ---
-title: "article-6: impacts of high temperature on Alaskan ice"
+title: "article-6: Iceless in Alaska"
 description: |
   Ice loss in Alaska have big consequences.
 author:

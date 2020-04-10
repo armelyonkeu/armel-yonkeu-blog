@@ -1,0 +1,40 @@
+---
+title: "article-9 : Ancient never-before-seen viruses discovered locked up in Tibetan glacier"
+description: |
+  it is important to know the frozen viruses.
+author:
+  - name: Yonkeu Tchuidjang Armel
+    url: {}
+date: 04-10-2020
+preview: "image/Tibetan glacier.jpg"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+Name of magazine and url:
+[Livescience](https://www.livescience.com/unknown-viruses-discovered-tibetan-glacier.html)
+
+![Tibetan glacier](image/Tibetan glacier.jpg)
+
+
+### Vocabulary
+
+| Words from the text | Synonym / explanation in english        |
+| ------------------- | --------------------------------------- |
+| to break-up         | to stop                                 |
+| stowaway            | research, study                         |
+| to thrive           | to grow, to develop                     |
+| pristine            | sterile, not contaminated with microbes |
+
+
+### Analysis table
+
+| Researchers                    | Researchers were not mentioned but the editor is called Laura Geggel                                                                                                        |
+| ------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Published in ?                 | January 22, 2020                                                                                                                                                            |
+| General topic ?                | In this article, researchers discovered 28 frozen viruses in ice cores                                                                                                      |
+| Procedure / what was examined? | The challenge was to analyze viruses without any contamination, so researchers put ice cores in cold room, then they cut and washed them twice                              |
+| Conclusions                    | Knowing that the melting of glaciers will continue it is important to know viruses they contain so that researchers will be  able to provide solutions in case of infection |
+| Remaining questions            | Are this new viruses impacting groups of microbes?                                                                                                                          |
+

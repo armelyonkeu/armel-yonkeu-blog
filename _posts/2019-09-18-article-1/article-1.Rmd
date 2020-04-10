@@ -1,41 +1,43 @@
 ---
-title: "Article 1 : How Océan water cause a glacial erosion?"
+title: "Article-1 : Ice Sheets Are Eroded by “Upside-down Rivers”"
+description: |
+  pockmarked ice.
 author:
   - name: Yonkeu Tchuidjang Armel
+    url: {}
 date: 10-21-2019
-categories:
-  - "melty of the glaciers"
 preview: "image/84681ED7-E5C7-4749-AA617380E499D663-790x445.jpg"
 output:
   distill::distill_article:
     self_contained: false
 ---
 
+name of magazine and url:
+[Scientific American](https://www.scientificamerican.com/article/ice-sheets-are-eroded-by-upside-down-rivers/)
 
 ![exploration glaciere](image/84681ED7-E5C7-4749-AA617380E499D663-790x445.jpg)
 
 
-###### article-link: [https://www.scientificamerican.com/article/ice-sheets-are-eroded-by-upside-down-rivers/#]()
 
-## Vocabulary 
+### Vocabulary 
 
-| words from the text | synonym/explanation         |
-| ------------------- | --------------------------- |
-| ice shelves         | bloc of glace               |
-| basal channels      | space between bloc of glace |
-| buoyant plumes      | movement of ocean water     |
-| split               | break                       |
+| Words from the text | Synonym / explanation in english |
+| ------------------- | -------------------------------- |
+| Ice shelves         | Ice layer                        |
+| Upside-down rivers  | The part of the river below      |
+| Buoyant plumes      | Floating hot water               |
+| split jagged        | irregular cutting                |
+| pockmarked          | full of holes                    |
 
+### Analysis table 
 
-## Analysis table 
-
-| Researchers         | Karen Alley and Ted SCambos                                                             |
-| ------------------- | --------------------------------------------------------------------------------------- |
-| Publish in          | 11/10/2019                                                                              |
-| General topic       | This topic talk about  how warmer ocean water creates melt of the Antarctica's glaciers |
-| What was examined ? | degradation of layer of ice                                                             |
-| Conclusion          | we must rapidly find any process which can remove a glacier                             |
-| Remaining questions | how much melty of the glaciers increase temperature and sea-level                       |
+| Researchers                    | Karen Alley and Ted Scambos                                                                                            |
+| ------------------------------ | ---------------------------------------------------------------------------------------------------------------------- |
+| Publish in?                    | October 11, 2019                                                                                                       |
+| General topic?                 | The ice that floated on oceans decreasing the melting of Antarctic ice , are disappearing due to the heating of oceans |
+| Procedure / what was examined? | Researchers observed ice blocks from oceans                                                                            |
+| Conclusion                     | Climate change induces warming of oceans and this increases, the melting of Antarctic's glaciers                       |
+| Remaining questions            | How much exactly destruction of ice shelves impacts on environment?                                                    |
 
 
 

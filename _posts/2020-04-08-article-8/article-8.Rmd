@@ -14,7 +14,7 @@ output:
 
 name of magazine and url: 
 
-[Science Daily]https://www.sciencedaily.com/releases/2019/10/191007100421.htm)
+[Science Daily](https://www.sciencedaily.com/releases/2019/10/191007100421.htm)
 
 ![peruvian glaciers](images/peruvian glaciers.png)
 

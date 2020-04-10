@@ -25,6 +25,8 @@ output:
 | basal channels      | space between bloc of glace |
 | buoyant plumes      | movement of ocean water     |
 | split               | break                       |
+
+
 ## Analysis table 
 
 | Researchers         | Karen Alley and Ted SCambos                                                             |

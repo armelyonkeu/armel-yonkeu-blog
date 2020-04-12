@@ -19,25 +19,24 @@ output:
 
 ##### Magazine name: [Science mag](https://www.sciencemag.org/news/2019/08/europes-record-heat-melted-swiss-glaciers)
 
-## Vocabulary
+### Vocabulary
 
-| words from the text       | synonym/explanation                        |
-| ------------------------- | ------------------------------------------ |
-| sweltering                | when something make respiration difficult  |
-| downward                  | rate decrease                              |
-| stunned to stumble across | to see something that was not planned      |
-| hike                      | a break                                    |
+| Words from the text | Synonym / explanation |
+| ------------------- | --------------------- |
+| Sweltering          | extreme               |
+| Downward            | decrease              |
+| To stumble across   | to see by chance      |
+| To stun             | to be surprised       |
+| to hike             | a walk                |
 
+### Analysis table
 
-## Analysis table
-
-
-| Researchers                 | Chealsea Harvey, reporter at eenews                                                                          |
-| ------------------------- | ------------------------------------------ |
-| Published in ?              | August 5, 2019                                                                                               |
-| General topic               | This report talk about a high melting Switzerland's glaciers                                                                                      caused by a rough summer which occured at june to july |
-| Procedure/What was examined | Results of the reseach did by GlAMOS (Glacier Monitoring Network), The Tignes Ski ressort in the french Alps announced, observation of mountaineer Bryan Mestre and publication in the cryosphere. |
-| Conclusions/discovery       | we are regulary seeing rough summer that we increase melty of the Europe'glaciers                             |
+| Researchers                     | Matthias Huss                                                                                                                                                                               |
+| ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Published in ?                  | August 5, 2019                                                                                                                                                                              |
+| General topic ?                 | This article deals with the melting of Swiss glaciers following the great heat wave between June and July 2019                                                                              |
+| Procedure / what was examined ? |  Researchers used the results of research done by GLAMOS (Swiss Glacier Monitoring Network), the announcement of the sky Tigne station and the publication of mountain dweller Bryan Mestre |
+| Conclusions / discovery         | In the future there will be more and more harsh summer which will cause more melting of ice                                                                                                 |
 
 
 

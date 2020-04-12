@@ -33,7 +33,7 @@ name of magazine and url:
 
 | Researchers                    | Karen Alley and Ted Scambos                                                                                            |
 | ------------------------------ | ---------------------------------------------------------------------------------------------------------------------- |
-| Publish in?                    | October 11, 2019                                                                                                       |
+| Published in?                    | October 11, 2019                                                                                                       |
 | General topic?                 | The ice that floated on oceans decreasing the melting of Antarctic ice , are disappearing due to the heating of oceans |
 | Procedure / what was examined? | Researchers observed ice blocks from oceans                                                                            |
 | Conclusion                     | Climate change induces warming of oceans and this increases, the melting of Antarctic's glaciers                       |

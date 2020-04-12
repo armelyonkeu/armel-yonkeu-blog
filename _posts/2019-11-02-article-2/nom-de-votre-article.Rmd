@@ -1,5 +1,7 @@
 ---
-title: "Article 2 : Old US military satellites give more information about melty of the Himalaya’s glaciers"
+title: "Article 2 : Spy satellite images reveal Himalaya glacier ice losses have doubled"
+description: |
+  loss of a quarter of the Himalayan glaciers
 author:
   - name: Yonkeu Tchuidjang Armel
 date: 11-02-2019
@@ -13,24 +15,24 @@ output:
 
 [link of article](https://www.newscientist.com/article/2206940-spy-satellite-images-reveal-himalaya-glacier-ice-losses-have-doubled/)
 
-# Vocabulary
+### Vocabulary
 
-| words from the text | synonym/explanation                                          |
-| ------------------- | ------------------------------------------------------------ |
-| to chart            | to give geographical position                                |
-| play havoc with     |  to disturb, to pertub                                       |
-| cartridges          | photographic film, the place in which picture stay in camera |
-| to vanish           | to disappear                                                 |
+| Words from the text | Synonym / explanation                           |
+| ------------------- | ----------------------------------------------- |
+| To chart            | to represent                                    |
+| Play havoc with     | to disturb, to pertub                           |
+| Cartridge           | the place where the images of a camera are kept |
+| To vanish           | to disappear                                    |
 
-# Analysis table
+### Analysis table
 
-| Researchers                     | Adam Vaughan, chief reporter at New Scientist                                                                                     |
-| ------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| Published in ?                  | 19, september 2019                                                                                                                |
-| General topic ?                 | Information which given by combination of two analysis (pictures of old and new satellites).                                      |
-| Procedure / what was examined ? | observation on Monsoon-driven climate.  Analysis on melty of the Everest’s glaciers and pictures of two satellites (old and new). |
-| Conclusion / discovery ?        | the quater of Himalaya ice mass have lost since 1975. It have correlation between rising temperatures and ice loss accelerating.  |
-| Remaining questions ?           | Why the Karakoram (north of Pakistan) and Kunlun (china) glaciers are stable or even growing up in places ?                       |
+| Researchers                    | Josh Maurer                                                                                                                     |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
+| Published in?                  | June, 2019                                                                                                                      |
+| General topic?                 | Researchers observed extreme depletion of Himalayan glaciers by comparing cold war satellite data with available data           |
+| Procedure / what was examined? | Researchers were able to draw conclusions by comparing military satellite data taken during the war with that available to them |
+| Conclusion                     | A quarter of the mass of the Himalayan glaciers has been lost since 1975 due to global warming                                  |
+| Remaining questions            |          /                                                                                                                      |
 
 
 

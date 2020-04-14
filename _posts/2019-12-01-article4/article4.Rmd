@@ -1,5 +1,5 @@
 ---
-title: "Article_4: The lost plains of Doggerland emerge from the North Sea"
+title: "Article_4: 'Reconstruction' begins of stone age lands lost to North Sea"
 description: |
   how did mesolitic humans live?
 author:
@@ -13,7 +13,7 @@ output:
 ---
 
 Name of magazine and url:
-[science mag](https://www.sciencemag.org/news/2019/05/lost-plains-doggerland-emerge-north-sea)
+[The Guardian](https://www.theguardian.com/science/2019/may/08/mapping-begins-of-lands-lost-to-north-sea-during-the-stone-age)
 
 
 
@@ -22,23 +22,25 @@ Name of magazine and url:
 one part of 3D colorado-size plot Doggerland's map 
 
 
-## Vocabulary
+### Vocabulary
 
-| words from the text       | synonym/explanation                        |
-| ------------------------- | ------------------------------------------ |
-| seabed                    | benthic environement/going deep to the sea |
-| pinpoint                  | point which that give precision            |
-| settlement                | dwelling/residence                         |
+| Words from the text | Synonym / explanation        |
+| ------------------- | ---------------------------- |
+| To unearth          | To find                      |
+| Buried              | Be covered by soil           |
+| settler             |  Civilization                |
+| To clue             | Tell someone about something |
+| Haystack            | mudde                        |
 
 
-## Analysis table
+### Analysis table
 
-| Researchers                     | Alex Fox                                                                                                                            |
-| ------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| Published in ?                  | 09, may 2019                                                                                                                      |
-| General topic ?                 | This article talk about an exploration of Doggerland  by scientits using two methods to have more informations about mesolitic human                                                                      |
-| Procedure / what was examined ? | Scientits created 3D map of colorado-size plot of Doggerland and took core samples from the sea floor by using specialized ship                                                                 |
-| Conclusion / discovery ?        | 3D map had revealed Doggerland's hill, rivers and coats. Scientits hope to find human relics and sources of plant and animal DNA which can reveal a ecosystem                                                    |
+| Researchers                     | A team made up of Vincent Gaffney and several other archaeologists and scientists                                                                                                                                       |
+| ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Published in ?                  | May 8, 2019                                                                                                                                                                                                             |
+| General topic ?                 | In this article, we talk about the discovery and the 3D reconstruction of prehistoric civilization buried in the north sea due to, the increase in the melting of ice which caused increase in water level of said sea. |
+| Procedure / what was examined ? |  The team had planned to exploit the DNA found on the stones and other relics in order to reconstruct a 3D map by special techniques                                                                                    |
+| Conclusions / discovery         | This article makes us understand that melting of ice has taken place a long time ago. We could ask ourselves the question of whether global warming has a preponderant place in the melting of ice?                     |
 
 
 

@@ -6,7 +6,7 @@ author:
   - name: Yonkeu Tchuidjang Armel
     url: {}
 date: 02-15-2020
-preview: "image/Alaska_sea.jpg"
+preview: "image/Alaska's mountain glaciers.jpeg"
 output:
   distill::distill_article:
     self_contained: false
@@ -18,26 +18,22 @@ name of magazine and url:
 
 
 
-![Frederick Sound sea in Southeast Alaska](image/Alaska_sea.jpg)
+![Dead salmon on lower river Alaska](image/Dead salmon on lower river Alaska.jpeg)
 
 ### Vocabulary
 
-| Word from the text | Synonym / explanation in english  |
-| ------------------ | --------------------------------- |
-| hypoxic            | low rate of oxygen in an organism |
-| Ice shelves        | bloc of ice                       |
-| Inupiat            | native people of Alaska           |
-| ever recorded      | a thing we have never seen before |
-| shockingly         | excessively bad                   |
-| spawning season    | season of good fishing            |
-
+| Words from the text | Synonym / explanation in english                         |
+| ------------------- | -------------------------------------------------------- |
+| Hypoxic             | Decrease in the amount of oxygen arriving at the tissues |
+| Inupiat             | A group of Alaska natives                                |
+| Spawning season     | Reproduction period                                      |
+| Ebb                 | Water reflux                                             |
 
 ### Analysis table
 
-| Researchers ?                   | Kristin Hettermann, reporter                                                                            |
-| ------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| Published in ?                  | 18 November, 2019                                                                                       |
-| General topic ?                 | Impact of rude summer on glaciers of Alaska and consequences on environment and activities              |
-| Procedure / what was examined ? | They used results of earlier research and  analysed change of environment  in Alaska                    |
-| Conclusions / discovery ?       | Temperature has been increasing more and more and it has been bad consequences on environment in Alaska |
-| Remaining question ?            | How can we manage clearly climatic change?                                                              |
+| Researcher?                    | NASA (National Aeronautics and Space Administration) and John Muir                                                                                                                                                                  |
+| ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Published?                     | November 18, 2019                                                                                                                                                                                                                   |
+| General topic?                 | The harsh summer from June to July 2019,  caused the melting of ice present not only on mountains but also on the surface of water. This melting had large consequences on the ecosystem and on salmon fishing.                     |
+| Procedure / what was examined? | For research, we used NASA's satellite data, National Weather Service's data and studies published in Inside Climate News                                                                                                           |
+| Conclusions / discovery?       | Alaska's glaciers are experiencing unprecedented melting. It is due to global warming with consequences on the ecosystem. To overcome this phenomenon, solutions such as the local production of energy and food have been proposed |

@@ -1,0 +1,171 @@
+
+<!-- saved from url=(0103)https://ploxtar.com/d?i=qga2q6euzdg6baab6zz3&a=0a0e225c99c27f840732de17a0dd3cc27&cb=7032421587470895490 -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script type="text/javascript" id="prebid" async="" src="./prebid(1).js"></script><style>body { margin:0; padding:0px; background-color: #fff; }</style></head><body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" ondragstart="return false;" ondrop="return false;"><iframe id="postbid_if_1587470896457" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" width="728" height="90" src="./saved_resource(4).html"></iframe><script>
+        (function(id) {
+        if (document.getElementById(id)) return;
+        var pbjsEl = document.createElement('script'); pbjsEl.type = 'text/javascript'; pbjsEl.id = id;
+        pbjsEl.async = true; var isHttps = 'https:' === document.location.protocol;
+        pbjsEl.src = '//hb.adpone.com/prebid.js';
+        var pbjsTargetEl = document.getElementsByTagName('head')[0];
+        pbjsTargetEl.insertBefore(pbjsEl, pbjsTargetEl.firstChild);
+    })('prebid');
+
+    (function(){
+        
+        const passbackTagHtml = `   `;
+ 
+        function getPlacementScriptElement(){
+            if (document.currentScript)
+                return document.currentScript;
+            else {
+                var scripts = document.getElementsByTagName('script'); 
+                var currentScript_2 = scripts[scripts.length - 1];
+                return currentScript_2;
+            }
+        }
+
+        function getQueryString(script){
+            var queryString = script.src.replace(/^[^\?]+\??/,'');
+            return '?'+queryString;
+        }
+
+
+        function getParameterByName(name, url) {
+            if (!url) url = window.location.href;
+            name = name.replace(/[\[\]]/g, '\$&');
+            var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
+                results = regex.exec(url);
+            if (!results) return null;
+            if (!results[2]) return '';
+            try {
+                return decodeURIComponent(results[2].replace(/\+/g, ' '));
+            }catch(err){
+                return null;
+            }
+        }
+
+        var plmntScriptElement = getPlacementScriptElement();
+        
+        var _id = new Date().getTime();
+        var _placementFrmId = 'postbid_if_' + _id;
+
+
+        var adUnitSizes = [728,90];
+
+        var adUnitBids = [
+          {
+            bidder: 'openx',             
+            params: {
+                unit: '540973912',               
+                delDomain: 'adpone-d.openx.net'
+            }
+          }
+        ]
+
+    
+        function getPlacementFrameId (){
+            return _placementFrmId;
+        }
+        
+        function createPlacementIframe(id){
+            var frmEl = document.createElement('iframe');
+            frmEl.setAttribute('id', getPlacementFrameId());
+            frmEl.frameBorder = '0';
+            frmEl.scrolling = 'no';
+            frmEl.marginWidth = '0';
+            frmEl.marginHeight = '0';
+            frmEl.TOPMARGIN = '0';
+            frmEl.LEFTMARGIN = '0';
+            frmEl.ALLOWTRANSPARENCY = 'true';
+            frmEl.width = '0';
+            frmEl.height = '0';
+
+            return frmEl;
+            
+        }
+
+        var plmntFrame = createPlacementIframe();
+        
+        if (plmntScriptElement){
+            plmntScriptElement.parentNode.insertBefore(plmntFrame, plmntScriptElement);
+        }else {
+            return 0;
+        }
+
+        window.adpnPbjs = window.adpnPbjs || {};
+        adpnPbjs.que = adpnPbjs.que || [];
+
+        var adUnitCodeName = 'adpn-adtag-'  + _id;
+
+        adpnPbjs.que.push(function() {
+
+            var adUnits = [{
+                code: adUnitCodeName,
+                sizes: adUnitSizes,
+                mediaTypes: { banner: { sizes: adUnitSizes } },
+                bids: adUnitBids
+            }];
+
+            adpnPbjs.setConfig({
+                consentManagement: {
+                    cmpApi: 'iab',
+                    timeout: 8000,
+                    allowAuctionWithoutConsent: true
+                },
+                userSync: {
+                  iframeEnabled: true,
+                  filterSettings: { 
+                    iframe: {
+                      bidders: ['openx'],
+                      filter: 'include'
+                    }
+                  }
+                }
+            });
+      
+            
+            adpnPbjs.addAdUnits(adUnits);
+            
+            adpnPbjs.requestBids({
+                adUnitCodes: [adUnitCodeName],
+                timeout: 3500,
+                bidsBackHandler: function() {
+                    
+
+                    var iframe = document.getElementById(getPlacementFrameId());
+                    
+                    var iframeDoc = iframe.contentWindow.document;
+    
+                    var params = adpnPbjs.getAdserverTargetingForAdUnitCode(adUnitCodeName);
+    
+                    if(params && params['hb_adid']){
+
+                        adpnPbjs.renderAd(iframeDoc, params['hb_adid']);
+
+
+                    } else {
+                        
+                        if (passbackTagHtml) {
+
+                            iframe.width = adUnitSizes[0][0] || adUnitSizes[0];
+                            iframe.height = adUnitSizes[0][1] || adUnitSizes[1];
+        
+                            iframeDoc.write(passbackTagHtml);
+                            iframeDoc.close();
+
+                        }else {
+                            if (iframe){
+                                iframe.parentNode.removeChild(iframe);
+                            }
+                        }
+                        
+                    }
+                }
+            });
+            
+        });
+
+    })();
+</script>
+        </body><iframe sandbox="allow-scripts allow-same-origin" id="3eb3e900f37769" frameborder="0" allowtransparency="true" marginheight="0" marginwidth="0" width="0" hspace="0" vspace="0" height="0" style="height:0px;width:0px;display:none;" scrolling="no" src="./pd.html">
+    </iframe></html>

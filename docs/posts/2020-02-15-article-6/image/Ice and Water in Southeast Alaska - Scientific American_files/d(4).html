@@ -1,0 +1,31 @@
+
+<!-- saved from url=(0103)https://ploxtar.com/d?i=qga2q6euzdg6baab6zz3&a=f13e3d22adc2d845edd1c354d4bc380e5&cb=5930981587470895449 -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><style>body { margin:0; padding:0px; background-color: #fff; }</style></head><body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" ondragstart="return false;" ondrop="return false;"><script async="async" type="text/javascript" src="./publishertag.js"></script>
+<div id="criteo_slot_1486988"><iframe id="criteo_slot_1486988_iframe" frameborder="0" allowtransparency="true" hspace="0" marginwidth="0" marginheight="0" scrolling="no" vspace="0" width="728" height="90" src="./saved_resource(3).html"></iframe></div>
+<script>
+    !function(){
+        var criteoZoneId = 1486988;
+        var criteoSlotId = "criteo_slot_1486988";
+        var passback = function () {
+            if (typeof window.lonce == 'undefined') {
+                window.lonce = 1;
+	            var width = "728", height = "90";
+	            var div = document.getElementById(criteoSlotId);
+	            if (div) { var ifr = document.createElement('iframe'); ifr.setAttribute("id", criteoSlotId+"_iframe"), ifr.setAttribute("frameborder","0"), ifr.setAttribute("allowtransparency","true"), ifr.setAttribute("hspace","0"), ifr.setAttribute("marginwidth","0"), ifr.setAttribute("marginheight","0"), ifr.setAttribute("scrolling","no"), ifr.setAttribute("vspace","0"), ifr.setAttribute("width", width), ifr.setAttribute("height", height);
+	            div.appendChild(ifr);
+	            var htmlcode = "<html><head></head><body> </body></html>";
+	            var ifrd = ifr.contentWindow.document; ifrd.open(); ifrd.write(htmlcode); ifrd.close(); }
+	        }
+        }
+ 
+        var CriteoAdUnits = { "placements": [{ "slotid": criteoSlotId, "zoneid": criteoZoneId }]};
+        window.Criteo = window.Criteo || {}; window.Criteo.events = window.Criteo.events || [];
+        var processCdbBid = function() {
+            var bids = Criteo.GetBidsForAdUnit(criteoSlotId);
+            if (bids.length > 0) {
+                var bidFound = bids[0]; Criteo.RenderAd({ bidId: bidFound.id, containerId: bidFound.impressionId });
+            } else { passback(); }
+        };
+        Criteo.events.push(function() { Criteo.RequestBids(CriteoAdUnits, processCdbBid, 2000);});
+    }();
+</script></body></html>

@@ -6,7 +6,7 @@ author:
   - name: Yonkeu Tchuidjang Armel
     url: {}
 date: 02-15-2020
-preview: "image/Alaska's mountain glaciers.jpeg"
+preview: "image/tracy-arm-fjord.jpg"
 output:
   distill::distill_article:
     self_contained: false
@@ -18,7 +18,7 @@ name of magazine and url:
 
 
 
-![Dead salmon on lower river Alaska](image/Dead salmon on lower river Alaska.jpeg)
+![Pacific salmon](image/Pacific salmon .jpeg)
 
 ### Vocabulary
 

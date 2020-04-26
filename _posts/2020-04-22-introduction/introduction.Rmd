@@ -1,0 +1,15 @@
+---
+title: "INTRODUCTION"
+description: |
+  A short description of the post.
+author:
+  - name: Yonkeu Tchuidjang Armel
+    url: {}
+date: 04-22-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+A glacier is a block of water in solid form. It covers a more or less important surface of mountains or waters. There are 7 major glaciers in the world: in Antarctica, in Iceland in Switzerland, in Argentina, in Canada and in Tanzania.
+It is generally known that the increase in the melting of glaciers is caused by global warming, but researchers working on the melting of the Himalayan glaciers (article 2) are not convinced of this, in particular because of the complexity of the climate of this region. . During the hottest summer of June and July 2019, a significant melting of glaciers was observed, like the Swiss glaciers. In addition to the satellite data, several other elements make it possible to observe the melting of the glaciers, one can quote inter alia the bodies of mountaineers covered with snow (article 2), the indices (old pollen, DNA of animals and plants) which have made it possible to rebuild an ancient civilization (article 4), the reappearance of birds like the Rock Ptarmigan, the displacement of plants like the Genepi. The articles selected in my blog deal mainly with the melting of glaciers in different regions of the globe, their causes, the consequences which result from it as well as tracks for the mitigation of said melting.

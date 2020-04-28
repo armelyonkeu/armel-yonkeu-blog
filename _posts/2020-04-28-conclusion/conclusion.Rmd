@@ -1,0 +1,14 @@
+---
+title: "CONCLUSION"
+author:
+  - name: Yonkeu Tchuidjang Armel
+    url: {}
+date: 04-28-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+The melting of glaciers is not a recent phenomenon, it has been taking place for billions of years. It increased significantly recently (in the 80s to 90s). We cannot say that this increase is the result of global warming.
+  but the observation is clear it was made following climate change. The melting of Glaciers has various consequences in economics (alteration of the fishing industry), on the ecosystem (disappearance of a link in the food chain) and even on health with the appearance of new live viruses in glaciers but which can resist and proliferate in their absence (article 9). It is also noted that there are places in the world where the glaciers do not undergo a worrying melting it is the case of the mountain ranges of Karakoram and Kunlun being in the north of Pakistan.
+Several studies show that the melting of glaciers will continue to increase even if measures are taken given the daily habits (use of hot water, cars, heating) and the rhythm of life of the populations of the world (skyer in winter, production industrial consumer products). However, solutions are proposed to improve this situation, notably the local production of energy and food (article 6).

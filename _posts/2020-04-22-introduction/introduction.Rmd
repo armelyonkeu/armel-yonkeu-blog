@@ -1,7 +1,5 @@
 ---
 title: "INTRODUCTION"
-description: |
-  A short description of the post.
 author:
   - name: Yonkeu Tchuidjang Armel
     url: {}

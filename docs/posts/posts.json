@@ -15,6 +15,21 @@
     "last_modified": "2020-11-08T20:55:41+01:00"
   },
   {
+    "path": "posts/meal/",
+    "title": "Meal",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Yonkeu Tchuidjang Armel",
+        "url": {}
+      }
+    ],
+    "date": "2020-11-08",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-11-08T21:09:23+01:00"
+  },
+  {
     "path": "posts/2020-04-28-conclusion/",
     "title": "CONCLUSION",
     "description": {},

@@ -1,0 +1,44 @@
+---
+title: "Mise à jour de mon blog"
+date: "05/11/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(eval = FALSE)
+```
+
+Vous avez créé votre blog scientifique l'année passée. Quelques petites modifications vous sont demandée pour respecter les nouvelles règles de cette année académique.
+
+# About Me
+
+Vous devez créer un article qui se nomme dont le titre doit être `About Me`. Vous pouvez utilisez l'instruction ci dessous.
+
+```{r}
+distill::create_post("about", date_prefix = FALSE)
+```
+
+Ce article doit comprend exactement ce que vous avez dans votre fichier about.Rmd qui se trouve à la vase de votre site. Cette petite modification va permettre d'ajouter disqus à votre section about me. Il semble que cela soit une demande des profs d'anglais.
+
+Dans votre fichier _site.yml, vous devez donc effectuer la modification suivante
+
+```
+    - text: "About Me"
+      href: "posts/about/index.html"
+```
+
+Avant vous aviez quelques chose de ce genre 
+
+```
+    - text: "About"
+      href: about.html
+```
+
+
+# Meal 
+
+Vous devez réalisez la même procédure que présentez ci-dessus pour l'article `meal`.
+
+```{r}
+distill::create_post("about", date_prefix = FALSE)
+```

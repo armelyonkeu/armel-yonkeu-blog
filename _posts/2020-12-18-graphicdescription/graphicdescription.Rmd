@@ -1,0 +1,40 @@
+---
+title: "graphic_description"
+description: |
+  Description of a scatterplot.
+author:
+  - name: Yonkeu Tchuidjang Armel
+    url: {}
+date: 12-18-2020
+preview: ""
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r, include=FALSE}
+SciViews::R
+```
+
+```{r importation, echo=FALSE}
+urchin <- data.io::read("urchin_bio", package = "data.io")
+```
+
+urchin_bio is a dataframe of biometry information about an specie of sea urchin which is call *Paracentrotus lividus* which are collected in Brittany and France (fishery origin) or in Normandy (farm origin). This dataframe containts nineteen variables.
+
+
+
+
+```{r, echo = FALSE}
+chart(urchin, weight ~ height %col=% origin) +
+  geom_point(na.rm = TRUE) +
+  labs(caption = "the weight of total mass fonction of the height of test")
+```
+
+A scatterplot is a graph allowing to represent two numerical variables. 
+
+This plot represent relation of total weight with test height of our sample. We find that the total mass and the height of the test increase proportionally.Most individu of farm origin have higher weight than other of fishery origin. It is  contrary concerning height of test. 

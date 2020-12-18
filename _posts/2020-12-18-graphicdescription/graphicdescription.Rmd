@@ -37,4 +37,4 @@ chart(urchin, weight ~ height %col=% origin) +
 
 A scatterplot is a graph allowing to represent two numerical variables. 
 
-This plot represent relation of total weight with test height of our sample. We find that the total mass and the height of the test increase proportionally.Most individu of farm origin have higher weight than other of fishery origin. It is  contrary concerning height of test. 
+This plot represent relation of total weight with test height, two variables of urchin_bio dataframe. We find that, the total mass and the height of the test increase proportionally.Most individu of farm origin have higher weight than other of fishery origin. It is  contrary concerning height of test. 

@@ -1,5 +1,7 @@
 name:
 title: "Armel's Blog"
+categories :
+  - Data Sciences I
 output_dir: "docs"
 navbar:
   right:

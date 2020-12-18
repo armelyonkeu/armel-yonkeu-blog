@@ -1,7 +1,5 @@
 name:
 title: "Armel's Blog"
-categories :
-  - Data Sciences I
 output_dir: "docs"
 navbar:
   right:
@@ -14,6 +12,7 @@ navbar:
 base_url: http://armelyonkeu.github.io/armel-yonkeu-blog-yonkeu/
 collections:
     posts:
+      categories: Data Sciences I
       disqus: armel-yonkeu-blog
       share: [twitter, linkedin, facebook]
 output:
